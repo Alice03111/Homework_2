@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+    border-collapse: separate; border-spacing: 10px 15px;
+}
+.A {
+    background-color: rgb(218, 5, 5);
+    height: 80px;
+}
+.B {
+    background-color: rgb(67, 236, 0);
+    height: 200px;
+}
+.C {
+    background-color: rgb(24, 123, 236);
+    height: 150px;
+}
+.D {
+    background-color: rgb(255, 0, 179);
+    height: 100px;
+}
